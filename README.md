@@ -24,7 +24,7 @@ DB_PASSWORD: {your_database_password}
 ## from IDEA
 - Intellij IDEA Ultimate
 1. CommonSpringbootApplication.java로 이동한다.
-![How_to_Install_from_IDEA](docs/image/How_to_Install_from_IDEA.png)
+![how-to-install-from-idea](docs/image/how-to-install-from-idea.png)
 
 ## 2. from JAR
 - TODO
@@ -36,17 +36,17 @@ DB_PASSWORD: {your_database_password}
 - [Swagger UI](http://localhost:8080/swagger-ui/index.html)
 
 # Directory Structure
-- [Directory Strategy](docs/strategy/Directory.md)
+- [Directory Strategy](docs/strategy/directory)
 
 # Git Strategy
 ### Branch Strategy
-- [Branch Strategy](docs/strategy/Branch.md)
+- [Branch Strategy](docs/strategy/branch)
 
 ### PR Strategy
-- [Pull Request Strategy](docs/strategy/PullRequest.md)
+- [Pull Request Strategy](docs/strategy/pull-request)
 
 ### Issue Strategy
-- [Issue Strategy](docs/strategy/Issue.md)
+- [Issue Strategy](docs/strategy/issue)
 
 # Dependency & Library
 | Name                                | Description                                                                                                                                                                                                                      | Version  |
